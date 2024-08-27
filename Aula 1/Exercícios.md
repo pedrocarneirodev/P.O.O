@@ -1,4 +1,4 @@
-Exercícios da Aula
+## Exercícios da Aula
 
 1. Escreva um aplicativo que solicita ao usuário inserir dois inteiros, obtém do usuário esses números e imprime
 sua soma, produto, diferença e divisão.
